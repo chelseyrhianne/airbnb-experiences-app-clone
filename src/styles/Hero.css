@@ -1,0 +1,27 @@
+.Hero {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+}
+
+.photo-grid {
+  max-width: 400px;
+  align-self: center;
+  width: 100%;
+}
+
+.hero-header {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 1.1;
+  text-align: left;
+  margin-bottom: 16px;
+}
+
+.hero-text {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.1;
+  text-align: left;
+  margin-top: 0;
+}
