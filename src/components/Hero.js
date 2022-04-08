@@ -7,7 +7,7 @@ export default function Hero() {
       <img
         className="photo-grid"
         src="images/photo-grid.png"
-        alt="Photo grid of online experiences hosted by AirBnb"
+        alt="Grid of online experiences hosted by AirBnb"
       />
       <h1 className="hero-header">Online experiences</h1>
       <p className="hero-text">
